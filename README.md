@@ -1,2 +1,2 @@
-# gbmurad_Description
-nachalo raboti
+# Начало работы с удаленным  репозиторием.
+# *Сделаем первый commit*
